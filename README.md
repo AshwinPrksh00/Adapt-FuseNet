@@ -5,10 +5,10 @@ Repository for the implementation of the paper "Adapt-FuseNet: Context-aware Mul
 ## Environment
 The code is written in Python 3.10. 
 ### Installation
-Download and Install Anaconda for virtual environment creation.<br>
-Clone the repository
+- Download and Install Anaconda for virtual environment creation.<br>
+- Clone the repository
 
-All the necessary packages used in the study has been included in ```requirements.txt``` file and can be installed by running<br> ```pip install -r requirements.txt``` in the repository folder
+- All the necessary packages used in the study has been included in ```requirements.txt``` file and can be installed by running<br> ```pip install -r requirements.txt``` in the repository folder
 
 ## Dataset
 The study employed the use of both CASIA-A and CASIA-B dataset for training the model.<br> Data Folder structure and local machine set up will be revealed in the future.
