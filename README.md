@@ -17,10 +17,15 @@ The code is written in Python 3.10.
 The study employed the use of both CASIA-A and CASIA-B dataset for training the model.<br> Data Folder structure and local machine set up will be revealed in the future.
 
 ## What's New?
-- Our paper won the IAPR Best Biometrics Student Paper Award 2023 in IJCB 2023
+- Sep 2023: Our paper won the IAPR Best Biometrics Student Paper Award 2023 in IJCB 2023
+- Apr 2024: The paper is published as a conference paper in IEEE. Link is present in the <b>Link to Paper</b> section.
 ## Citation
-Coming Soon
-
-## Pre-print
-For those who are looking for the necessary methods implemented in the paper may read the preprint version on arXiv:<br>
-<a href="https://arxiv.org/abs/2303.13814">Multimodal Adaptive Fusion of Face and Gait Features using Keyless attention based Deep Neural Networks for Human Identification</a> <br>- Ashwin Prakash, Thejaswin S, Athira Nambiar, Alexandre Bernardino
+  ### Pre-print
+  Prakash, A., Nambiar, A., & Bernardino, A. (2023). Multimodal Adaptive Fusion of Face and Gait Features using Keyless attention based Deep Neural Networks for Human Identification. arXiv preprint arXiv:2303.13814.
+  ### Conference Paper
+  Prakash, A., Thejaswin, S., Nambiar, A., & Bernardino, A. (2023, September). Adapt-FuseNet: Context-aware Multimodal Adaptive Fusion of Face and Gait Features using Attention Techniques for Human Identification. In 2023 IEEE International Joint Conference on Biometrics (IJCB) (pp. 1-10). IEEE.
+## Link to Paper
+- **Pre-print**<br>
+  <a href="https://arxiv.org/abs/2303.13814">Multimodal Adaptive Fusion of Face and Gait Features using Keyless attention based Deep Neural Networks for Human Identification</a> <br>- Ashwin Prakash, Thejaswin S, Athira Nambiar, Alexandre Bernardino
+- **Conference Paper**<br>
+  <a href="https://ieeexplore.ieee.org/document/10448765">Adapt-FuseNet: Context-aware Multimodal Adaptive Fusion of Face and Gait Features using Attention Techniques for Human Identification</a> <br>- Ashwin Prakash, Thejaswin S, Athira Nambiar, Alexandre Bernardino
